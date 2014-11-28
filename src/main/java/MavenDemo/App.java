@@ -22,6 +22,7 @@ public class App
 
             System.out.println("after: " + beanOne.toString());
             System.out.println("id: " + beanOne.m_iId);
+            System.out.println("testing orion");
         } catch (IllegalAccessException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
